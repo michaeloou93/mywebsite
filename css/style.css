@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+background-color: orchid;
+color : #ffff;
+}
+
+body{
+   background-color: cornflowerblue;
+}
+
+div, p {
+    font-size: 30px;
+}
+/*GROUPING STYLE*/
+th, tr, td{
+padding: 20px;
+}
+
+#text > span{
+    color: chartreuse;
+}
+
+/*COLORS IN CSS*/
+
+.mydiv{
+    background-color: rgb(49, 44, 44);
+}
+/*OPACITY OF 0.1 IN THE RGB BRACKET*/
+#myparagraph{
+    background: rgb(56, 18, 18,0.1);
+}
+body{
+    background-image: url("../images/ig4.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: cover; /*cover,contain*/
+}
+/*BACKGROUND SHORTHAND PROPERTY*/
+#myparagraph{
+    background: url("../images/ig4.jpg") no-repeat top;
+}
+/*borders in CSS*/
+#borderparagraph{
+border-style: double;
+border-width: 10px 20px 3px 8px;
+border-color: chocolate;
+
+}

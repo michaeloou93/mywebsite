@@ -1,0 +1,33 @@
+"request": "attach",
+// Use IntelliSense to learn about possible attributes.
+// Hover to view descriptions of existing attributes.
+// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+{
+    "configurations": [
+        
+
+
+
+[p[C:\XAMPP1\htdocs\mywebsite\.vscode\launch.json]]
+        {
+            "name": "Attach by Process ID",
+            "processId": "${command:PickProcess}",
+            "skipFiles": [
+                "<node_internals>/**"
+           ],
+            "type": "pwa-node"
+        }print
+
+        sjojsojsjsa'j,i[s;lsqkkds;l[s[l
+            {
+            s[],ds
+            '\;sd
+            "type": "pwa-chrome",
+            "request": "launch",
+           "name": "Lkaunch Chrome against localhost",
+             [k[s\k[cxj"version": "0.2.0",
+            "url": "htktp://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
